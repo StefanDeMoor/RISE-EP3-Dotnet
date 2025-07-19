@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Rise.Domain",
+    "\\Rise.Domain\\Categories",
+    "\\Rise.Domain\\Common",
+    "\\Rise.Persistence",
+    "\\Rise.Persistence\\Migrations"
+  ],
+  "SelectedNode": "\\Rise.Persistence\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

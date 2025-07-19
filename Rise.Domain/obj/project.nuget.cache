@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkVq9zFcqcM=",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Rise.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\ardalis.guardclauses\\5.0.0\\ardalis.guardclauses.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

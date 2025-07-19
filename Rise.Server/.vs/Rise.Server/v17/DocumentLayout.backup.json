@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\rise.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:rise.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rise.Server",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Rise.Server.csproj",
+              "RelativeDocumentMoniker": "Rise.Server.csproj",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Rise.Server.csproj",
+              "RelativeToolTip": "Rise.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T23:00:03.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:52:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Program.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:52:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Category\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\Category\\Category.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Category\\Category.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\Category\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:51:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\Common\\Entity.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\Common\\Entity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:51:08.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\Program.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Program.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:50:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:42:19.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T22:40:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:41:09.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
