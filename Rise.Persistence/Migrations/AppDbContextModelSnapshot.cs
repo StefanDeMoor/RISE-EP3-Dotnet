@@ -19,28 +19,117 @@ namespace Rise.Persistence.Migrations
                 .HasAnnotation("ProductVersion", "8.0.3")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("Rise.Domain.AmountItems.AmountItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<double>("Amount")
+                        .HasColumnType("double");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("OverviewId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ParentAmountItemId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OverviewId");
+
+                    b.HasIndex("ParentAmountItemId");
+
+                    b.ToTable("AmountItems");
+                });
+
             modelBuilder.Entity("Rise.Domain.Categories.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("tinyint(1)");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<DateTime>("UpdatedAt")
-                        .HasColumnType("datetime(6)");
-
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+                });
+
+            modelBuilder.Entity("Rise.Domain.Overviews.Overview", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<double>("Result")
+                        .HasColumnType("double");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<double>("TotalIncome")
+                        .HasColumnType("double");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("Overviews");
+                });
+
+            modelBuilder.Entity("Rise.Domain.AmountItems.AmountItem", b =>
+                {
+                    b.HasOne("Rise.Domain.Overviews.Overview", "Overview")
+                        .WithMany("Amounts")
+                        .HasForeignKey("OverviewId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Rise.Domain.AmountItems.AmountItem", "ParentAmountItem")
+                        .WithMany("SubAmounts")
+                        .HasForeignKey("ParentAmountItemId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.Navigation("Overview");
+
+                    b.Navigation("ParentAmountItem");
+                });
+
+            modelBuilder.Entity("Rise.Domain.Overviews.Overview", b =>
+                {
+                    b.HasOne("Rise.Domain.Categories.Category", "Category")
+                        .WithMany("Overviews")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Rise.Domain.AmountItems.AmountItem", b =>
+                {
+                    b.Navigation("SubAmounts");
+                });
+
+            modelBuilder.Entity("Rise.Domain.Categories.Category", b =>
+                {
+                    b.Navigation("Overviews");
+                });
+
+            modelBuilder.Entity("Rise.Domain.Overviews.Overview", b =>
+                {
+                    b.Navigation("Amounts");
                 });
 #pragma warning restore 612, 618
         }

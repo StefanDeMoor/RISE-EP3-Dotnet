@@ -1,10 +1,15 @@
 using Microsoft.EntityFrameworkCore;
-using Rise.Domain.Categories;
 using Rise.Persistence;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles; // zorgt voor json zonder : $id, $values,.. als je dit wel wilt kies dan preserve
+        options.JsonSerializerOptions.WriteIndented = true;
+    });
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(
@@ -23,12 +28,6 @@ using (var scope = app.Services.CreateScope())
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
     db.Database.Migrate();
-
-    if (!db.Categories.Any())
-    {
-        db.Categories.Add(new Category { Name = "Overview" });
-        db.SaveChanges();
-    }
 }
 
 app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());

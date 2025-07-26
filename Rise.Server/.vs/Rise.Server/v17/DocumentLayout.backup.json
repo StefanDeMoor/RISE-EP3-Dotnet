@@ -3,35 +3,33 @@
   "WorkspaceRootPath": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\overviews\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\amountitems\\amountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250722115006_addoverviewandamountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\rise.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:rise.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250722184618_updatedoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,119 +59,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rise.Server",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Rise.Server.csproj",
-              "RelativeDocumentMoniker": "Rise.Server.csproj",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Rise.Server.csproj",
-              "RelativeToolTip": "Rise.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-18T23:00:03.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Rise.Persistence\\AppDbContext.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Rise.Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\Categories\\Category.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Categories\\Category.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\Categories\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:52:39.837Z",
+              "WhenOpened": "2025-07-25T12:55:49.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Program.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
-              "RelativeToolTip": "..\\Rise.Persistence\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OverviewController.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\OverviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OverviewController.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\OverviewController.cs",
+              "RelativeToolTip": "Controllers\\OverviewController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:52:08.476Z",
+              "WhenOpened": "2025-07-25T12:55:21.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Category\\Category.cs",
-              "RelativeDocumentMoniker": "..\\Rise.Domain\\Category\\Category.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Category\\Category.cs",
-              "RelativeToolTip": "..\\Rise.Domain\\Category\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:51:44.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Common\\Entity.cs",
-              "RelativeDocumentMoniker": "..\\Rise.Domain\\Common\\Entity.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Common\\Entity.cs",
-              "RelativeToolTip": "..\\Rise.Domain\\Common\\Entity.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:51:08.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Rise.Domain\\Program.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Program.cs",
-              "RelativeToolTip": "..\\Rise.Domain\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:50:28.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:42:19.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T22:40:54.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:41:09.843Z",
+              "WhenOpened": "2025-07-25T12:17:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Program.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:17:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmountItem.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\AmountItems\\AmountItem.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\AmountItems\\AmountItem.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\AmountItems\\AmountItem.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\AmountItems\\AmountItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:17:07.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overview.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Overviews\\Overview.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Domain\\Overviews\\Overview.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Overviews\\Overview.cs",
+              "RelativeToolTip": "..\\Rise.Domain\\Overviews\\Overview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:56:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250722184618_UpdatedOverviewModel.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:55:52.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:55:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250722115006_AddOverviewAndAmountItem.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:55:13.594Z",
               "EditorCaption": ""
             }
           ]

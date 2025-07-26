@@ -71,5 +71,104 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rise.Server.Controllers.OverviewController",
+    "Method": "GetOverviews",
+    "RelativePath": "api/Overview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Rise.Domain.Overviews.Overview, Rise.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rise.Server.Controllers.OverviewController",
+    "Method": "AddOverview",
+    "RelativePath": "api/Overview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "overview",
+        "Type": "Rise.Domain.Overviews.Overview",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rise.Server.Controllers.OverviewController",
+    "Method": "GetOverview",
+    "RelativePath": "api/Overview/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Rise.Domain.Overviews.Overview",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rise.Server.Controllers.OverviewController",
+    "Method": "UpdateOverview",
+    "RelativePath": "api/Overview/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "overview",
+        "Type": "Rise.Domain.Overviews.Overview",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rise.Server.Controllers.OverviewController",
+    "Method": "DeleteOverview",
+    "RelativePath": "api/Overview/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
