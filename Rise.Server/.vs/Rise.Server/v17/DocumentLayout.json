@@ -3,7 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\overviews\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\amountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\amountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\amountitems\\amountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,11 +25,19 @@
       "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|solutionrelative:controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBBCEC3A-B45D-4FEC-9CCC-905FC73F1938}|..\\Rise.Domain\\Rise.Domain.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.domain\\overviews\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250730155508_updatetotalincometype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250722115006_addoverviewandamountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250722184618_updatedoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5086EE56-FD74-478E-AEEF-391EA37612FC}|Rise.Server.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,12 +45,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\migrations\\20250722184618_updatedoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB56B742-815C-45F5-974B-DBD00133E8AD}|..\\Rise.Persistence\\Rise.Persistence.csproj|d:\\coding\\rise ep3\\rise-ep3-dotnet\\rise.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,6 +75,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:15:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T16:05:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250730155508_UpdateTotalIncomeType.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250730155508_UpdateTotalIncomeType.cs",
+              "RelativeDocumentMoniker": "..\\Rise.Persistence\\Migrations\\20250730155508_UpdateTotalIncomeType.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250730155508_UpdateTotalIncomeType.cs",
+              "RelativeToolTip": "..\\Rise.Persistence\\Migrations\\20250730155508_UpdateTotalIncomeType.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:55:08.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmountController.cs",
+              "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\AmountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AmountController.cs",
+              "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\AmountController.cs",
+              "RelativeToolTip": "Controllers\\AmountController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:07:42.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Categories\\Category.cs",
               "RelativeDocumentMoniker": "..\\Rise.Domain\\Categories\\Category.cs",
@@ -71,19 +135,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "OverviewController.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\OverviewController.cs",
               "RelativeDocumentMoniker": "Controllers\\OverviewController.cs",
               "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Controllers\\OverviewController.cs",
               "RelativeToolTip": "Controllers\\OverviewController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA4wDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T12:55:21.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -95,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Program.cs",
               "RelativeDocumentMoniker": "..\\Rise.Persistence\\Program.cs",
@@ -107,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AmountItem.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\AmountItems\\AmountItem.cs",
               "RelativeDocumentMoniker": "..\\Rise.Domain\\AmountItems\\AmountItem.cs",
@@ -119,20 +183,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Overview.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Overviews\\Overview.cs",
               "RelativeDocumentMoniker": "..\\Rise.Domain\\Overviews\\Overview.cs",
               "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Domain\\Overviews\\Overview.cs",
               "RelativeToolTip": "..\\Rise.Domain\\Overviews\\Overview.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T11:56:15.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T11:56:15.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250722184618_UpdatedOverviewModel.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
               "RelativeDocumentMoniker": "..\\Rise.Persistence\\Migrations\\20250722184618_UpdatedOverviewModel.cs",
@@ -144,25 +207,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\Rise.Persistence\\AppDbContext.cs",
               "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\AppDbContext.cs",
               "RelativeToolTip": "..\\Rise.Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T11:55:27.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20250722115006_AddOverviewAndAmountItem.cs",
               "DocumentMoniker": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
               "RelativeDocumentMoniker": "..\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
               "ToolTip": "D:\\Coding\\RISE EP3\\RISE-EP3-Dotnet\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
               "RelativeToolTip": "..\\Rise.Persistence\\Migrations\\20250722115006_AddOverviewAndAmountItem.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T11:55:13.594Z"
             }

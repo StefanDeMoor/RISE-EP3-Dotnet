@@ -76,6 +76,25 @@ namespace Rise.Server.Controllers
             return NoContent();
         }
 
+        // PUT: api/Overview/5/totalincome
+        [HttpPut("{id}/totalIncome")]
+        public async Task<IActionResult> UpdateTotalIncome(int id, [FromBody] double newTotalIncome)
+        {
+            var overview = await _context.Overviews.FindAsync(id);
+
+            if (overview == null)
+                return NotFound();
+
+            overview.TotalIncome = newTotalIncome;
+
+            _context.Entry(overview).Property(o => o.TotalIncome).IsModified = true;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
         // DELETE: api/Overview/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteOverview(int id)

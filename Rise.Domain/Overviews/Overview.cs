@@ -15,7 +15,7 @@ namespace Rise.Domain.Overviews
         [BindNever] 
         public Category? Category { get; set; } = default!;
 
-        public double TotalIncome { get; set; }
+        public double? TotalIncome { get; set; }
         public double Result { get; set; }
 
         public List<AmountItem>? Amounts { get; set; } = new();
