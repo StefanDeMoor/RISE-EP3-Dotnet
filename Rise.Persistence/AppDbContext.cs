@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Rise.Domain.AmountItems;
 using Rise.Domain.Categories;
+using Rise.Domain.Customer;
 using Rise.Domain.Overviews;
 
 
@@ -13,6 +14,7 @@ namespace Rise.Persistence
         public DbSet<Category> Categories { get; set; }
         public DbSet<Overview> Overviews { get; set; }
         public DbSet<AmountItem> AmountItems { get; set; }
+        public DbSet<Customer> Customers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
